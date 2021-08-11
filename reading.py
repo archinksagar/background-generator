@@ -16,3 +16,5 @@ translator = Translator(to_lang='ja')
 translation = translator.translate((read))
 print(read)
 print(translation) # changed it back
+
+# adding comments by gitother. because he has no other work
