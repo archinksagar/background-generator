@@ -15,4 +15,4 @@ with open('japan.txt', mode='r') as my_file:
 translator = Translator(to_lang='ja')
 translation = translator.translate((read))
 print(read)
-# print(translation)
+print(translation) # changed it back
